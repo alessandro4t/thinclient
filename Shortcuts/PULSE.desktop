@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PULSE
+Comment=Conectar o Pulse
+Exec=remmina -c /home/dominos/.local/share/remmina/nomedasessao.remmina
+Icon=/home/dominos/Imagens/pulse.png
+Path=
+Terminal=false
+StartupNotify=false
