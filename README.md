@@ -12,4 +12,6 @@ Abra o terminal e execute os seguintes comandos :
 sudo chmod +x /home/dominos/Downloads/installapp.sh
 cd /home/dominos/Downloads/
 sudo ./installapp.sh
-abra o remmina e crie a conexao remota com o pulsebos
+*configurando o reminna*
+Abra o remmina e crie a conexao remota com o pulsebos
+Escolha a opcao de auto iniciar
